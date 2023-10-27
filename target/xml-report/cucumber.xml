@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="4.152" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Database üzerinden onlineexam tablosundaki sinavlarin" name="Onlineexam tablosundaki sinavlarin passing_percentage değerlerinin" time="3.884">
+<system-out><![CDATA[
+* Database baglantisi kurulur...............................................passed
+* Query hazirlanir ve onlineexam tablosuna execute edilir...................passed
+* Onlineexam tablosundan donen resultSet`teki bilgiler listelenir...........passed
+* Database baglantisi kapatilir.............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
